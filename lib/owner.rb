@@ -59,5 +59,10 @@ class Owner
       end
     end
 
+    def self.sell_pets
+
+
+    end
+
 
 end
