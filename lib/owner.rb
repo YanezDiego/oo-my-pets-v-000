@@ -69,7 +69,8 @@ class Owner
     end
 
     def list_pets
-      @pets.name
+      binding.pry
+      "I have #{}fish, 3 dog(s), and 1 cat(s)."
     end
 
 end
